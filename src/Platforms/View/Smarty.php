@@ -7,7 +7,7 @@
  * @version		3.0
  * @filesource 	./mithra62/BackupPro/Platforms/View/Smarty.php
  */
-namespace mithra62\Platforms\View;
+namespace JaegerApp\Platforms\View;
 
 /**
  * Backup Pro - Smarty View Object
